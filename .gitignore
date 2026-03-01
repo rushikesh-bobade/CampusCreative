@@ -36,4 +36,6 @@ report.[0-9]_.[0-9]_.[0-9]_.[0-9]_.json
 .DS_Store
 
 # Hackathon Content
+BUSINESS_MODEL.md
+COST_ESTIMATES.md
 HACKATHON_PPT_CONTENT.md
